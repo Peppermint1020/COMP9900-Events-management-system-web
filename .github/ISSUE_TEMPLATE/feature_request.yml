@@ -1,4 +1,4 @@
-name: Requesting a Feature or Improvement
+pname: Requesting a Feature or Improvement
 description: For feature requests. Please search for existing issues first. Also see CONTRIBUTING.
 title: '[FEATURE] <title>'
 labels: [Feature,  Needs Triage]
@@ -15,7 +15,7 @@ body:
   - type: textarea
     attributes:
       label: Suggest A Solution
-      description: |
+      description: please
     validations:
       required: false
  
