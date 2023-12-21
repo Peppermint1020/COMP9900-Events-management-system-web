@@ -1,5 +1,5 @@
-name: Reporting a Problem/Bug
-description: Reporting a Problem/Bug
+name: Reporting a Problem
+description: Reporting a Problem
 title: "[BUG] <title>"
 labels: [Bug, Needs Triage]
 body:
@@ -44,3 +44,4 @@ body:
       render: markdown
     validations:
       required: true
+
