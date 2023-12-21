@@ -1,5 +1,5 @@
 name: Requesting a Feature or Improvement
-description: For feature requests. Please search for existing issues first. Also see CONTRIBUTING.
+description: For feature requests. Please search for existing issues first.
 title: '[FEATURE] <title>'
 labels: [Feature,  Needs Triage]
 body:
@@ -15,7 +15,6 @@ body:
   - type: textarea
     attributes:
       label: Suggest A Solution
-      description: please
+      description: Please give some suggestion to help.
     validations:
       required: false
- 
